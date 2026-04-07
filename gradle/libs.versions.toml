@@ -2,7 +2,7 @@
 mariaDBJavaClientVersion = "3.1.0"
 lombokVersion = "1.18.30"
 junitVersion = "4.13.2"
-springFrameworkBootVersion = "2.7.6"
+springFrameworkBootVersion = "2.7.18"
 springDependencyManagementVerrsion = "1.1.0"
 
 [libraries]
