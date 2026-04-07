@@ -3,7 +3,7 @@ mariaDBJavaClientVersion = "3.1.0"
 lombokVersion = "1.18.30"
 junitVersion = "4.13.2"
 springFrameworkBootVersion = "2.7.6"
-springDependencyManagementVerrsion = "1.1.0"
+springDependencyManagementVerrsion = "1.1.7"
 
 [libraries]
 mariaDBJavaClient = { module = "org.mariadb.jdbc:mariadb-java-client", version.ref = "mariaDBJavaClientVersion" }
